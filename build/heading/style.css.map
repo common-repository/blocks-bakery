@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./blocks/heading/style.scss"],"names":[],"mappings":"AAAA,wBACI,oBAAqB","file":"heading/style.css","sourcesContent":["#width_sepeartor_advace{\r\n    background-color: red;\r\n}\r\n"],"sourceRoot":""}

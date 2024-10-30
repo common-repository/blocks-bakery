@@ -1,0 +1,4 @@
+.bb-icon-picker{margin-top:20px}.bb-icon-picker .bb-flex{display:flex;flex-direction:row;justify-content:space-between;width:100%;align-items:center}.bb-icon-picker .bb-flex div{display:flex;align-items:center;flex-direction:row}.bb-icon-picker-popover.is-expanded .components-popover__content{overflow-y:scroll !important}.bb-icon-picker-popover .components-popover__content{width:300px;height:400px}.bb-icon-picker-root .bb-icon-picker-grid{padding:10px 0px;display:grid;grid-template-columns:repeat(4, 1fr);grid-gap:5px}.bb-icon-picker-root .bb-icon-picker-grid .bb-icon{text-align:center;padding:15px 0px;width:100%;background:#eee;font-size:20px;cursor:pointer}.bb-icon-picker-root .bb-icon-picker-grid .bb-icon.bb-active{background:#000;color:#fff}.bb-icon-picker-root .bb-icon-picker-grid .bb-icon:not(.bb-active):hover{background:#e8e5e5}
+
+
+/*# sourceMappingURL=style.css.map*/

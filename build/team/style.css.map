@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./blocks/team/style.scss"],"names":[],"mappings":"AAAA,MACA,oBAAqB","file":"team/style.css","sourcesContent":["#para{\nbackground-color: red;\n}\n"],"sourceRoot":""}
